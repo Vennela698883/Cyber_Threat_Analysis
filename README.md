@@ -1,4 +1,3 @@
-<img width="1285" height="882" alt="image" src="https://github.com/user-attachments/assets/8054152a-3eae-4201-a182-9e84787383ef" /># Cyber_Threat_Analysis
 📊 Cyber Threat Analytics Platform with Incident Visualization System
 🚀 Project Overview
 This project was completed as part of our internship with Infosys Springboard Virtual Internship 7.0.
