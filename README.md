@@ -1,4 +1,4 @@
-# Cyber_Threat_Analysis
+<img width="1285" height="882" alt="image" src="https://github.com/user-attachments/assets/8054152a-3eae-4201-a182-9e84787383ef" /># Cyber_Threat_Analysis
 📊 Cyber Threat Analytics Platform with Incident Visualization System
 🚀 Project Overview
 This project was completed as part of our internship with Infosys Springboard Virtual Internship 7.0.
@@ -18,6 +18,18 @@ Cyber_Threat_Analytics_Group.pptx – Group presentation describing the complete
 Internship_Completion_Report.pdf – Internship completion report.
 LICENSE – License information for the repository.
 README.md – Complete overview and documentation of the project.
+
+🗂️ Dataset
+The dataset used in this project consists of publicly available cybersecurity incident records obtained from Kaggle.
+
+Dataset File: Dataset.csv (uploaded in this repository)
+Total Records: 10,228+ cybersecurity incidents
+Geographical Coverage: 141 countries
+Time Coverage: Spans multiple decades
+Key Features: Attack Type, Actor Type, Attacker Country, Target Country, Asset Variety, Cloud Environment, Motive, Incident ID, Year, and Month.
+
+The dataset was analyzed and preprocessed to identify cybersecurity trends, attack patterns, affected regions, and other meaningful insights.
+
 🚀 Key Features
 📊 Interactive Executive Dashboard
 Provides a high-level overview of cybersecurity incidents using KPI cards, attack trends, global threat distribution, charts, and geographic visualizations.
